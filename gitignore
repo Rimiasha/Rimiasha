@@ -1,0 +1,19 @@
+# Dataset (too large / shouldn't be committed)
+dataset/
+
+# Generated features and trained model
+features.csv
+*.pkl
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
