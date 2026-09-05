@@ -11,17 +11,27 @@ We use the Potato Leaf Disease Dataset for plant disease detection. The dataset 
 ## 🛠️ Technologies Used
 
 ✅ Python 
+
 ✅ NumPy (Numerical Computation & Image Feature Extraction)
+
 ✅ Pandas (Data Handling & Analysis)
+
 ✅ Scikit-learn (Machine Learning Model & Evaluation)
+
 ✅ Pillow (PIL) (Image Manipulation)
+
 ✅ Joblib (Model Serialization)
 
 ## 🚀Features
 
 ✅ Image Preprocessing & Resizing
+
 ✅ Feature Extraction 
+
 ✅ Structured Dataset Creation with Pandas
+
 ✅ Model Training & Evaluation 
+
 ✅ Feature Importance Analysis
+
 ✅ Making Predictions on New Leaf Images
